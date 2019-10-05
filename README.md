@@ -1,2 +1,2 @@
-# hw_intro_to_data_science
-Assignments and my notes of the course: Introduction to Data Science
+# Introduction to Data Science - Fall 2019
+This repository includes my assignments, projects, and notes of this course.
