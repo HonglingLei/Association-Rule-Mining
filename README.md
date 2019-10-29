@@ -11,4 +11,12 @@ As Usman Malik wrote, "Association rule mining is a technique to identify underl
 
 Data
 --------
-[Sample - SuperStore.xls](https://github.com/HonglingLei/association-rule-mining/blob/master/Sample%20-%20Superstore.xls) is my raw data. It contains 9995 receipts; each containing `Row ID`,	`Order ID`,	`Order Date`,	`Ship Date`,	`Ship Mode`,	`Customer ID`,	`Customer Name`,	`Segment	Country	City`,	`State	Postal Code`,	`Region`,	`Product ID`,	`Category`,	`Sub-Category`,	`Product Name`,	`Sales`,	`Quantity`,	`Discount`,	`Profit`.
+[Sample - SuperStore.xls](https://github.com/HonglingLei/association-rule-mining/blob/master/Sample%20-%20Superstore.xls) is my raw data. It contains 9995 receipts; each containing `Row ID`,	`Order ID`,	`Order Date`,	`Ship Date`,	`Ship Mode`,	`Customer ID`,	`Customer Name`,	`Segment`,	`Country`,	`City`,	`State`,	`Postal Code`,	`Region`,	`Product ID`,	`Category`,	`Sub-Category`,	`Product Name`,	`Sales`,	`Quantity`,	`Discount`,	`Profit`.
+
+Code
+--------
+My [https://github.com/HonglingLei/association-rule-mining/blob/master/%5BCode%5D%20Sample%20Superstore%20Association.ipynb](code) is detailedly commented so each step should be easy to understand. As you can see, this optimized method does not contain any loop (my first version had 3 loops and 2 ifs) so it runs much faster.
+
+Results
+--------
+Demo results can be seen in my code part. The file includes `XID`, `YID`, `n_XY`, `n_X`, `n_Y`, `n_Transactions`, `Support`, `Confidence`, and `Lift`. Click [https://github.com/HonglingLei/association-rule-mining/blob/master/Sample%20Supperstore%20Association%20Results.xls](here) to download the complete excel.
