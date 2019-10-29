@@ -19,4 +19,10 @@ My [code](https://github.com/HonglingLei/association-rule-mining/blob/master/%5B
 
 Results
 --------
-Demo results can be seen in my code part. The file includes `XID`, `YID`, `n_XY`, `n_X`, `n_Y`, `n_Transactions`, `Support`, `Confidence`, and `Lift`. Click [here](https://github.com/HonglingLei/association-rule-mining/blob/master/Sample%20Supperstore%20Association%20Results.xls) to download the complete excel.
+Demo results can be seen in my code file. The file includes `XID`, `YID`, `n_XY`, `n_X`, `n_Y`, `n_Transactions`, `Support`, `Confidence`, and `Lift`. Click [here](https://github.com/HonglingLei/association-rule-mining/blob/master/Sample%20Supperstore%20Association%20Results.xls) to download the complete excel.
+
+Additional Reading (if you would like to know more about Association Rule Mining)
+--------
+- ["Association Rule Mining via Apriori Algorithm in Python"](https://stackabuse.com/association-rule-mining-via-apriori-algorithm-in-python/) by Usman Malik
+- ["Association Analysis: Basic Concepts and Algorithms"]
+
