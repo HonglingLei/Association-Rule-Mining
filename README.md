@@ -1,2 +1,2 @@
-# Introduction to Data Science - Fall 2019
-This repository includes some of my assignments in this course.
+# Association Rules
+I used supermarket receipts to analyze associations between consumer goods.
