@@ -15,8 +15,8 @@ Data
 
 Code
 --------
-My [https://github.com/HonglingLei/association-rule-mining/blob/master/%5BCode%5D%20Sample%20Superstore%20Association.ipynb](code) is detailedly commented so each step should be easy to understand. As you can see, this optimized method does not contain any loop (my first version had 3 loops and 2 ifs) so it runs much faster.
+My [code](https://github.com/HonglingLei/association-rule-mining/blob/master/%5BCode%5D%20Sample%20Superstore%20Association.ipynb) is detailedly commented so each step should be easy to understand. As you can see, this optimized method does not contain any loop (my first version had 3 loops and 2 ifs) so it runs much faster.
 
 Results
 --------
-Demo results can be seen in my code part. The file includes `XID`, `YID`, `n_XY`, `n_X`, `n_Y`, `n_Transactions`, `Support`, `Confidence`, and `Lift`. Click [https://github.com/HonglingLei/association-rule-mining/blob/master/Sample%20Supperstore%20Association%20Results.xls](here) to download the complete excel.
+Demo results can be seen in my code part. The file includes `XID`, `YID`, `n_XY`, `n_X`, `n_Y`, `n_Transactions`, `Support`, `Confidence`, and `Lift`. Click [here](https://github.com/HonglingLei/association-rule-mining/blob/master/Sample%20Supperstore%20Association%20Results.xls) to download the complete excel.
