@@ -23,7 +23,7 @@ Demo results can be seen in my code file. The file includes `XID`, `YID`, `n_XY`
 
 Additional Reading 
 --------
-If you would like to know more about association rule mining, here are two sources for you.
+If you would like to know more about association rule mining, here are some suggested sources.
 - [Association Rule Mining via Apriori Algorithm in Python](https://stackabuse.com/association-rule-mining-via-apriori-algorithm-in-python/) by Usman Malik
 - [Association Analysis: Basic Concepts and Algorithms](https://github.com/HonglingLei/association-rule-mining/blob/master/Association%20analysis.pdf) 
 - [Association rules - mixtend](http://rasbt.github.io/mlxtend/user_guide/frequent_patterns/association_rules/)
