@@ -11,7 +11,7 @@ As Usman Malik wrote, "Association rule mining is a technique to identify underl
 
 Data
 --------
-[Sample - SuperStore.xls](https://github.com/HonglingLei/association-rule-mining/blob/master/Sample%20-%20Superstore.xls) is my raw data. It contains 9995 receipts; each containing `Row ID`,	`Order ID`,	`Order Date`,	`Ship Date`,	`Ship Mode`,	`Customer ID`,	`Customer Name`,	`Segment`,	`Country`,	`City`,	`State`,	`Postal Code`,	`Region`,	`Product ID`,	`Category`,	`Sub-Category`,	`Product Name`,	`Sales`,	`Quantity`,	`Discount`,	`Profit`.
+[Sample - SuperStore.xls](https://github.com/HonglingLei/association-rule-mining/blob/master/Sample%20-%20Superstore.xls) is my raw data. It contains 9995 receipts; each has columns such as `Row ID`,	`Order ID`,	`Order Date`,	`Ship Date`,	`Ship Mode`,	`Customer ID`,	`Customer Name`,	`Segment`,	`Country`,	`City`,	`State`,	`Postal Code`,	`Region`,	`Product ID`,	`Category`,	`Sub-Category`,	`Product Name`,	`Sales`,	`Quantity`,	`Discount`,	`Profit`.
 
 Code
 --------
