@@ -15,7 +15,7 @@ Data
 
 Code
 --------
-My [code](https://github.com/HonglingLei/association-rule-mining/blob/master/%5BCode%5D%20Sample%20Superstore%20Association.ipynb) is detailedly commented so each step should be easy to understand. As you can see, this optimized method does not contain any loop (my first version had 3 loops and 2 ifs) so it runs much faster.
+My [code](https://github.com/HonglingLei/association-rule-mining/blob/master/code.ipynb) is detailedly commented so each step should be easy to understand. As you can see, this optimized method does not contain any loop (my first version had 3 loops and 2 ifs) so it runs much faster.
 
 Results
 --------
