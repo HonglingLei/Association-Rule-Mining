@@ -3,7 +3,7 @@ README
 
 Overview
 ----------
-I used supermarket receipts to analyze associations (support, confidence, lift, etc.) between consumer goods. Instead of employing Apriori Algorithm - the traditional solution - I used a simpler method which generates the same results within a shorter execution time. Loops are avoided so it took only 0.04 second to analyze 9995 receipts.
+I used supermarket receipts to analyze associations (support, confidence, lift, etc.) between consumer goods. Instead of employing Apriori Algorithm - the traditional solution - I used a simpler method (originally proposed by my friend Tianye Song) which generates the same results within a shorter execution time. Loops are avoided so it took only 0.04 second to analyze 9995 receipts.
 
 Motivation
 --------
